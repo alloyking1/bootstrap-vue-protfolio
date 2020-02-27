@@ -7,6 +7,7 @@
                 <h1>Software Developer</h1>
                 <p>This is a fun project I built while learning vue.js and bootstrap</p>
                 <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target=".bd-example-modal-lg">Contact</button>
+                
             </div>
         </section>
 
