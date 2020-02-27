@@ -83,7 +83,7 @@
             <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
                 <div class="modal-dialog modal-lg">
                     <div class="modal-content">
-                        <Contact/>
+                        <Contact_form/>
                     </div>
                 </div>
             </div>
@@ -93,10 +93,10 @@
 </template>
 
 <script lang="ts">
-import Contact from './Contact.vue'
+import Contact_form from './Contact.vue'
 export default {
     components:{
-        Contact
+        Contact_form
     }  
 }
 </script>
